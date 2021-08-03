@@ -67,6 +67,51 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\normalize.css" />
+    <Content Include="css\personalsiteproject.webflow.css" />
+    <Content Include="css\webflow.css" />
+    <Content Include="images\1f510c30-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\1f510c30-500px.jpg" />
+    <Content Include="images\1fbb59d6-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\1fbb59d6-500px.jpg" />
+    <Content Include="images\1w6iAjLXSHa5OYRSYAjd__MG_1162-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\1w6iAjLXSHa5OYRSYAjd__MG_1162-500px.jpg" />
+    <Content Include="images\2c0343f7-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\2c0343f7-500px.jpg" />
+    <Content Include="images\2jEqzi01Ru2HBhGLTBgB_MG_5236-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\2jEqzi01Ru2HBhGLTBgB_MG_5236-500px.jpg" />
+    <Content Include="images\3ae98ccd-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\3ae98ccd-500px.jpg" />
+    <Content Include="images\4e769802-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\4e769802-500px.jpg" />
+    <Content Include="images\4JUAYmLTuS1mBvBBwe3D_St_Anton-500px-thumb-130-130-80.jpg" />
+    <Content Include="images\4JUAYmLTuS1mBvBBwe3D_St_Anton-500px.jpg" />
+    <Content Include="images\AboutSelf-p-1600.jpeg" />
+    <Content Include="images\AboutSelf-p-500.jpeg" />
+    <Content Include="images\AboutSelf-p-800.jpeg" />
+    <Content Include="images\AboutSelf.jpg" />
+    <Content Include="images\CalebMitchellAlt-p-500.png" />
+    <Content Include="images\CalebMitchellAlt.png" />
+    <Content Include="images\CodeSnippet-p-1080.jpeg" />
+    <Content Include="images\CodeSnippet-p-2000.jpeg" />
+    <Content Include="images\CodeSnippet-p-500.jpeg" />
+    <Content Include="images\CodeSnippet.jpg" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\HireMe-p-1080.jpeg" />
+    <Content Include="images\HireMe-p-1600.jpeg" />
+    <Content Include="images\HireMe-p-500.jpeg" />
+    <Content Include="images\HireMe-p-800.jpeg" />
+    <Content Include="images\HireMe.jpg" />
+    <Content Include="images\NewCodeSnippet-p-2000.jpeg" />
+    <Content Include="images\NewCodeSnippet-p-500.jpeg" />
+    <Content Include="images\NewCodeSnippet-p-800.jpeg" />
+    <Content Include="images\NewCodeSnippet.jpg" />
+    <Content Include="images\social-03-white.svg" />
+    <Content Include="images\social-18-white.svg" />
+    <Content Include="images\social-30-white.svg" />
+    <Content Include="images\webclip.png" />
+    <Content Include="index.html" />
+    <Content Include="js\webflow.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
